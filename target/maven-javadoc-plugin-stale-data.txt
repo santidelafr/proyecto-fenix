@@ -1,0 +1,47 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+17
+-sourcepath
+'C:/Users/Santi/Desktop/proyecto-fenix/proyecto-fenix/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Santi/Desktop/proyecto-fenix/proyecto-fenix/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'proyecto-fenix 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'proyecto-fenix 1.0-SNAPSHOT API'
+com.example
+C:\Users\Santi\Desktop\proyecto-fenix\proyecto-fenix\src\main\java = 1769702112236
+C:\Users\Santi\Desktop\proyecto-fenix\proyecto-fenix\target\reports\apidocs\allclasses-index.html = 1769873471857
+C:\Users\Santi\Desktop\proyecto-fenix\proyecto-fenix\target\reports\apidocs\allpackages-index.html = 1769873471860
+C:\Users\Santi\Desktop\proyecto-fenix\proyecto-fenix\target\reports\apidocs\copy.svg = 1769873471892
+C:\Users\Santi\Desktop\proyecto-fenix\proyecto-fenix\target\reports\apidocs\element-list = 1769873471819
+C:\Users\Santi\Desktop\proyecto-fenix\proyecto-fenix\target\reports\apidocs\help-doc.html = 1769873471885
+C:\Users\Santi\Desktop\proyecto-fenix\proyecto-fenix\target\reports\apidocs\index-all.html = 1769873471874
+C:\Users\Santi\Desktop\proyecto-fenix\proyecto-fenix\target\reports\apidocs\index.html = 1769873471879
+C:\Users\Santi\Desktop\proyecto-fenix\proyecto-fenix\target\reports\apidocs\link.svg = 1769873471893
+C:\Users\Santi\Desktop\proyecto-fenix\proyecto-fenix\target\reports\apidocs\member-search-index.js = 1769873471865
+C:\Users\Santi\Desktop\proyecto-fenix\proyecto-fenix\target\reports\apidocs\module-search-index.js = 1769873471861
+C:\Users\Santi\Desktop\proyecto-fenix\proyecto-fenix\target\reports\apidocs\overview-tree.html = 1769873471845
+C:\Users\Santi\Desktop\proyecto-fenix\proyecto-fenix\target\reports\apidocs\package-search-index.js = 1769873471862
+C:\Users\Santi\Desktop\proyecto-fenix\proyecto-fenix\target\reports\apidocs\script.js = 1769873471891
+C:\Users\Santi\Desktop\proyecto-fenix\proyecto-fenix\target\reports\apidocs\search-page.js = 1769873471898
+C:\Users\Santi\Desktop\proyecto-fenix\proyecto-fenix\target\reports\apidocs\search.html = 1769873471877
+C:\Users\Santi\Desktop\proyecto-fenix\proyecto-fenix\target\reports\apidocs\search.js = 1769873471896
+C:\Users\Santi\Desktop\proyecto-fenix\proyecto-fenix\target\reports\apidocs\stylesheet.css = 1769873471889
+C:\Users\Santi\Desktop\proyecto-fenix\proyecto-fenix\target\reports\apidocs\tag-search-index.js = 1769873471866
+C:\Users\Santi\Desktop\proyecto-fenix\proyecto-fenix\target\reports\apidocs\type-search-index.js = 1769873471864
